@@ -487,9 +487,9 @@ Toda contribución es bienvenida 😊
 - [Halcón Parquemet, Terraza](https://halcon.parquemet.cl/index.html)
 - [Providencia, Ledrium](https://www.youtube.com/channel/UCTDewuGhfwGv6JRNnqa-yXw)
 - [Municipalidad Osorno](https://www.youtube.com/channel/UCD7sqegDNyZxmdnCj6xqH6g)
-- [glaseado.cl, Huayquique](https://www.glaseado.cl/surf-cams/huayquique/)
-- [glaseado.cl,Las Urracas](https://www.glaseado.cl/surf-cams/las-urracas/)
-- [glaseado.cl, La Punta](https://www.glaseado.cl/surf-cams/la-punta/)
+- [glaseado.cl, Huayquique](https://www.glaseado.cl/surf-cams/huayquique/) (RIP)
+- [glaseado.cl,Las Urracas](https://www.glaseado.cl/surf-cams/las-urracas/) (RIP)
+- [glaseado.cl, La Punta](https://www.glaseado.cl/surf-cams/la-punta/) (RIP)
 - [Av Angamos](https://www.youtube.com/channel/UCP9nvEUj8EN-wuOQajPQbAw)
 - [Av La Marina](https://www.youtube.com/channel/UCP9nvEUj8EN-wuOQajPQbAw)
 - [FourSeasons BuenosAires](https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw)
@@ -566,13 +566,13 @@ ___
 |--------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | https://www.viendotele.cl/                             | [@pottersys](https://twitter.com/pottersys)              | [Fuente](https://github.com/PotterSys/canales-tele) - [x](https://twitter.com/pottersys/status/1187710925182255104)    |
 | https://tele.0x00.cl/ (RIP)                            | [u/0x00cl](https://old.reddit.com/user/0x00cl)           | [Fuente](https://old.reddit.com/r/chile/comments/dx76yi/megathread_jornada_de_protestas_d%C3%ADa_30_70k_subs/f7p0vjn/) |
-| https://whywelove.news/love/country/chile/envivo       | [u/sebastianrw](https://old.reddit.com/user/sebastianrw) | [Fuente](https://old.reddit.com/r/chile/comments/dwba7u/monitorea_las_noticias_de_chile_en_tiempo_real/)               |
+| https://whywelove.news/love/country/chile/envivo (RIP) | [u/sebastianrw](https://old.reddit.com/user/sebastianrw) | [Fuente](https://old.reddit.com/r/chile/comments/dwba7u/monitorea_las_noticias_de_chile_en_tiempo_real/)               |
 | https://ainmcl.github.io/MonitorTV/Monitores/Home.html | [AINMcl](https://github.com/AINMcl)                      | [Fuente](https://github.com/AINMcl/MonitorTV)                                                                          |
 | https://tele.martinsantibanez.com/monitor              | [martinsantibanez](https://github.com/martinsantibanez)  | [Fuente](https://github.com/martinsantibanez/tele-react)                                                               |
 | https://sanguinet.github.io/tele/                      | [SanguiNET](https://github.com/SanguiNET)                | [Fuente](https://github.com/SanguiNET/tele)                                                                            |
 | https://alplox.github.io/la-tele/                      | [Alplox](https://github.com/Alplox/)                     | [Fuente](https://github.com/Alplox/la-tele)                                                                            |
-| https://tele-vivo.github.io/cable-tv-list/             | ["tele-vivo"](https://github.com/tele-vivo)              | [Fuente](https://github.com/tele-vivo/cable-tv-list)                                                                   |
-| https://brauliori.github.io/st                         | [brauliori](https://github.com/brauliori)                | [Fuente](https://github.com/brauliori/brauliori.github.io)                                                             |
+| https://tele-vivo.github.io/cable-tv-list/ (RIP)       | ["tele-vivo"](https://github.com/tele-vivo)              | [Fuente](https://github.com/tele-vivo/cable-tv-list)                                                                   |
+| https://brauliori.github.io/st (RIP)                   | [brauliori](https://github.com/brauliori)                | [Fuente](https://github.com/brauliori/brauliori.github.io)                                                             |
 
 
 <details>
@@ -585,14 +585,14 @@ ___
 | http://www.cxtvlive.com/tv/country/chile           | [Felipe](https://whois.domaintools.com/cxweb.com.br)                  | ❌                                                                                          |
 | https://vivotvhd.com/4/Chile.htm                   | ["nuevarena.com" Hernan](https://whois.domaintools.com/nuevarena.com) | ❌                                                                                          |
 | https://www.tdtchannels.com/television             | [LaQuay](https://github.com/LaQuay)                                   | [Fuente](https://github.com/LaQuay/TDTChannels/)                                           |
-| https://farina00.github.io/tele.donut/             | [farina00](https://github.com/farina00)                               | [Fuente](https://github.com/farina00/tele.donut)                                           |
+| https://farina00.github.io/tele.donut/ (RIP)       | [farina00](https://github.com/farina00)                               | [Fuente](https://github.com/farina00/tele.donut)                                           |
 | https://donchelox.github.io/tv-viewer/             | [Donchelox](https://github.com/Donchelox)                             | [Fuente](https://github.com/Donchelox/tv-viewer)                                           |
 | https://asdlars.github.io/teveando/                | [asdlars](https://github.com/asdlars)                                 | [Fuente](https://github.com/asdlars/teveando/)                                             |
 | https://joelpurra.com/projects/multi-video-frames/ | [joelpurra](https://github.com/joelpurra)                             | [Fuente](https://github.com/joelpurra/multi-video-frames)                                  |
-| http://reloltv.com/                                | [Popelysh](https://whois.domaintools.com/reloltv.com)                 | ❌                                                                                          |
+| http://reloltv.com/ (RIP)                          | [Popelysh](https://whois.domaintools.com/reloltv.com)                 | ❌                                                                                          |
 | https://www.multi-stream.tv                        | ???                                                                   | ❌                                                                                          |
 | https://www.tvonlinechile.cl                       | [Arturo Infante](https://whois.domaintools.com/tvonlinechile.cl)      | ❌                                                                                          |
-| https://ar.teleringa.com/                          | ???                                                                   | ❌                                                                                          |
+| https://ar.teleringa.com/ (RIP)                    | ???                                                                   | ❌                                                                                          |
 | https://cablegratis.online/tv-chile-en-vivo/       | ???                                                                   | ❌                                                                                          |
 | https://vidgrid.tk.gg/                             | [MattieTK](https://twitter.com/MattieTK)                              | [Fuente](https://twitter.com/MattieTK/status/1496815557198315521?cxt=HHwWgoCs0bP04MUpAAAA) |
 
